@@ -1,4 +1,4 @@
-# FOOBAR
+# ZIAA
 <p align="center"><img src="images/convolutions_anim.gif" width="50%" alt="" /></p>
 
 This is the implementation of the approach described in the paper:
